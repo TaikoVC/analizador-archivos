@@ -1,6 +1,8 @@
 import os
 import sys
 
+"""Revision del codigo"""""
+
 def contar_lineas(contenido):
     """Cuenta el número de líneas en el contenido."""
     return len(contenido.splitlines())
